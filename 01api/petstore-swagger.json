@@ -434,7 +434,7 @@
         },
         "properties": {
           "tags": [
-            "pets"
+            "pets", "test"
           ],
           "summary": "Create a pet"
         }
